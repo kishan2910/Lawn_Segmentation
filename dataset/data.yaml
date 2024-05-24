@@ -1,6 +1,6 @@
-train: ./train/images
-val: ./val/images
-test: ./test/images
+train: D:\Projects\Lawn_Segmentation\dataset\train\images
+val: D:\Projects\Lawn_Segmentation\dataset\val\images
+test: D:\Projects\Lawn_Segmentation\dataset\test\images
 
 nc: 1
 names: ['lawn']
