@@ -1,26 +1,23 @@
 # Lawn_Segmentation_Using_YOLOv9
 
 ## Create virtual environment
-bash
-'''
+```bash
 python -m venv yolovenv
-'''
+```
 
 ## Activate the virtual environment
-bash
-'''
+```bash
 . yolovenv\scripts\activate
-'''
+```
 
 ## Install the requirements in virtual environment.
-bash
-'''
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### In case it doesn't work because of the permission denied issue
-bash
-'''
+```bash
 python -m pip install -r requirements.txt
+```
 
 ## Select the kernel and Run the jupyter notebook
